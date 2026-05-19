@@ -1,10 +1,3 @@
-"""
-Comprehensive Python Tutorial: Fundamentals with Examples
-Author: Self-taught programmer
-Description: This script covers Python basics including keywords,
-             data types, formatting, data structures, and type casting.
-"""
-
 import keyword
 
 # ============================================================================
